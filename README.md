@@ -21,13 +21,11 @@ Building scalable backend systems and high-quality full-stack applications with 
 - 🏗️ Passionate about clean code, backend architecture, and software engineering principles.
 - 🚀 Interested in making creative modern web applications and building scalable SaaS products.
 
----
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600" />
 </div>
 
----
 
 <h2>🛠️ Languages & Skills</h2>
 
