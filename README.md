@@ -63,7 +63,7 @@ Building scalable backend systems and high-quality full-stack applications with 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/saif-ahmed-85b50a420">
+<a href="www.linkedin.com/in/saifahmed-sw">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
