@@ -16,16 +16,16 @@ Building scalable backend systems and high-quality full-stack applications with 
 
 <h2>👨‍💻 About Me</h2>
 
-- 🎓 Software Engineering student at <b>Al Asimah University</b> (formerly Helwan University), maintaining a <b>GPA of 3.09/4.00 (Very Good)</b>.
-- 💻 Backend-focused developer who enjoys building scalable systems and polished user interfaces.
-- 🏗️ Passionate about clean code, backend architecture, and software engineering principles.
-- 🚀 Interested in making creative modern web applications and building scalable SaaS products.
-
+- Software Engineering student at <b>Capital University</b> (formerly Helwan University), maintaining a <b>GPA of 3.09/4.00 (Very Good)</b>.
+- Backend-Focused Full-Stack Developer who enjoys building scalable systems and interesting user interfaces.
+- Passionate about clean code, backend architecture, and software engineering principles.
+- Interested in making creative modern web applications and building scalable SaaS products.
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="600" />
 </div>
 
+---
 
 <h2>🛠️ Languages & Skills</h2>
 
@@ -34,7 +34,7 @@ Building scalable backend systems and high-quality full-stack applications with 
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="60" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,nextjs" height="60" alt="backend" />
 </div>
 
 <div align="center">
@@ -42,21 +42,9 @@ Building scalable backend systems and high-quality full-stack applications with 
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css" height="60" alt="frontend" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github" height="60" alt="tools" />
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" height="60" alt="tools" />
-</div>
-
----
-
-<h2>Currently Working On</h2>
-
-- Building **Aurakon** — a habit-building productivity platform inspired by behavioral psychology principles, designed to help users develop long-term consistency through a structured growth journey featuring progression, achievements, streaks, and rewards.
-- Deepening my knowledge of NestJS and Docker while exploring modern backend technologies, including caching and CI/CD workflows.
-- Exploring advanced System Design and scalable backend architectures.
-- Open to collaborating on scalable backend systems, full-stack applications, and open-source projects.
 ---
 
 <h2>⚡ Where To Find Me</h2>
@@ -71,10 +59,4 @@ Building scalable backend systems and high-quality full-stack applications with 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-<p align="center">
-<i>"Building software that scales, not just software that works."</i>
 </p>
