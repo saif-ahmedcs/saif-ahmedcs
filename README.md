@@ -34,7 +34,7 @@ Building scalable backend systems and high-quality full-stack applications with 
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,nextjs" height="60" alt="backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,nextjs,react" height="60" alt="frameworks" />
 </div>
 
 <div align="center">
